@@ -1,3 +1,11 @@
 # Response+HandyJSON
 
-## compatible with Moya 9.0.0+
+## Compatible with Moya 9.0.0+
+
+## Usage
+
+```Swift
+MoyaProvider<YourTarget>().rx.request(YourAPI)
+    .asObservable()
+    .mapObject(YourModel)
+```
