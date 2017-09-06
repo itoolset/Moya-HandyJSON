@@ -1,6 +1,6 @@
 //
 //  Response+HandyJSON.swift
-//  Map
+//  Response+HandyJSON
 //
 //  Created by leo on 2017/9/1.
 //  Copyright © 2017年 leo. All rights reserved.
